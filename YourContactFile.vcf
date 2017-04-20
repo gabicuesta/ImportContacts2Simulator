@@ -1,0 +1,15 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iOS 10.2//EN
+N:Abad;Raúl;;;
+FN:Raúl Abad
+item1.EMAIL;type=INTERNET;type=pref:raul@raulabad.com
+EMAIL;type=INTERNET;type=HOME:raulabad@raulabad.com
+NOTE:Apellido: Abad\nMóvil general: \n<sn>id:655901137/friendof:642932973</
+ sn>
+BDAY;value=date:2017-01-01
+X-SOCIALPROFILE;type=twitter;x-user=raulabad:http://twitter.com/raulabad
+X-SOCIALPROFILE;type=facebook;x-user=raulillo:http://www.facebook.com/rauli
+ llo
+REV:2017-04-20T07:12:40Z
+END:VCARD
